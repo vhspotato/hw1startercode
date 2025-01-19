@@ -1,0 +1,35 @@
+body{
+    font-family: Roboto, Oxygen, 'Helvetica Neue', sans-serif;
+    font-size:115%;
+    background-color:#a0d2eb;
+}
+
+header{
+    background-color:#e5eaf5;
+}
+
+nav{
+    background-color:#e5eaf5;
+}
+
+main{
+    background-color:yellow;
+    font-size:medium;
+}
+
+li{
+    display:inline-block;
+    width:33%;
+    text-align:center;
+}
+
+h1{
+    font-size:large;
+    font-family:Roboto, Oxygen, 'Helvetica Neue', sans-serif;
+    color:#8458B3;
+
+}
+
+p{
+    line-height:120%;
+}
